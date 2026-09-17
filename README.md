@@ -4,9 +4,6 @@ A Python-based university management system built to demonstrate core Object-Ori
 
 # University Management System (OOP Assignment)
 
-## Project Title
-**University Management System: A Comprehensive Object-Oriented Python Application**
-
 ## Project Purpose
 This project was developed as an assignment to demonstrate a deep understanding of Object-Oriented Programming (OOP) principles in Python. The primary purpose is to design and implement a structured, scalable, and maintainable system for managing the core entities of a university, such as people (students, professors, administrators), courses, and departments. The code serves as a practical example of how to model real-world relationships and hierarchies using OOP concepts.
 
